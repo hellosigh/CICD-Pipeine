@@ -1,0 +1,4 @@
+flask
+psycopg2-binary
+Flask-SQLAlchemy
+flask-swagger-ui==4.11.1
